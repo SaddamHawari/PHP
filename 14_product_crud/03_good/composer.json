@@ -1,0 +1,13 @@
+{
+    "name": "hp/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [{
+        "name": "John Smith",
+        "email": "john@gmail.com"
+    }],
+    "require": {}
+}
